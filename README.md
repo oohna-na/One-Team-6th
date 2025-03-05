@@ -29,7 +29,8 @@ coding_test/
 3. **Git 활용:**
    - 학습 내용을 정리한 후 commit & push 합니다.
    - 커밋 메시지 예시: 자유롭게합니다.
-   - Pull Request or 각자 Branch로 PUSH 합니다.
+   - 각자 Branch 로 직접 PUSH or Pull Request을 통해 병합합니다
+   - 단, **main** Branch 병합은 Pull Request를 통해서만 합니다.
 
 ## 📌 규칙
 
@@ -37,6 +38,7 @@ coding_test/
 - **다른 사람의 기록을 참고하고 피드백 남기기!**
 - **코드 리뷰 & 학습 내용 공유를 적극적으로 하기!**
 - **각자 학습 페이스에 맞추기!**
+- **부담가지지 않기**
 
 ## 🎯 목표
 
